@@ -1,0 +1,21 @@
+{
+  "name": "expressMorgan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Douglas Alves <douglas.expalves@gmail.com> (https://dougtq.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
